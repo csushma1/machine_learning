@@ -1,0 +1,3 @@
+Features extract different types of information from the data. This is what differentiates machine learning from a set of conditional programming 
+statements. It captures the nature of the data in its entirerity. Good features ensure the algorithm predicts targets well enough even on 
+the test data.
