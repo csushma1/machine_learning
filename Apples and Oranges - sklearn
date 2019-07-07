@@ -1,0 +1,3 @@
+from sklearn import decisiontree
+feature = [[140,150,110,100]] #weight in grams
+output = [[0,0,1,1]] # 0 for orange and 1 for apple
